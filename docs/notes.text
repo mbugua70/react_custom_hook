@@ -1,0 +1,3 @@
+// React hooks rules //
+ -- you can only hooks on top level
+ -- you can use hooks inside other hooks and inside a components
